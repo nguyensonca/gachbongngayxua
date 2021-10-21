@@ -5,6 +5,7 @@
     "home_page_url": "https://gachbongngayxua.vercel.app",
     "feed_url": "https://gachbongngayxua.vercel.app/feed.json",
     "user_comment": "",
+    "icon": "https://gachbongngayxua.vercel.app/media/website/logo-gachbongxua.png",
     "author": {
         "name": "Gạch Bông CTS"
     },
@@ -19,9 +20,10 @@
                 "name": "Gạch Bông CTS"
             },
             "tags": [
+                   "gạch bông xưa"
             ],
             "date_published": "2021-10-21T23:42:59+07:00",
-            "date_modified": "2021-10-21T23:42:59+07:00"
+            "date_modified": "2021-10-22T00:16:20+07:00"
         }
     ]
 }
